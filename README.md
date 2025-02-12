@@ -35,7 +35,7 @@ Per raggiungere il 100% del progetto, è necessario implementare almeno **7 modu
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/dmax96/ft_transcendence.git
+   git clone https://github.com/Spatentrider/ft_transcendence.git
    ```
 2. Esegui il progetto con il MakeFile:
    ```bash
